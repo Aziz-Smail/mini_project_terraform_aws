@@ -16,6 +16,16 @@ ALB:
 EC2 Instances:
 ![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/1515853c-0e3b-4ab8-926f-26a61ae2e847)
 
+Load Balancer :
+![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/6e6b0bfa-95e3-47ae-80be-29c1debb185e)
+![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/e47ff66a-2653-49f2-8bf6-270831f6d7cd)
+
+Results of terraform destroy : 
+![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/04441c4e-ed9e-4315-9165-70df805d6137)
+
+Thank you ^^ 
+
+
 
 
 
