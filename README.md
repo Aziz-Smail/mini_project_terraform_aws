@@ -4,7 +4,7 @@ Results of terraform apply :
 
 
 VPC :
-![Capture d'écran 2023-10-14 103846](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/04097e2c-d189-4275-add2-48a62cabbd75)
+![Capture d'écran 2023-10-14 104408](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/050e0624-2b8d-4cac-b30c-08fd220d02f2)
 
 ![Capture d'écran 2023-10-14 103846](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/4d85b51f-49a7-4059-9338-e0f926c603b6)
 
