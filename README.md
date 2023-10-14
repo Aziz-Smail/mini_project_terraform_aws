@@ -1,27 +1,32 @@
 # mini_project_terraform_aws
 Results of terraform apply : 
-![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/8c45c49b-49e7-4d1b-ab39-612a112f513a)
+![Capture d'écran 2023-10-14 101625](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/89a4e1f9-f300-44a1-ae72-285a6912b337)
+
 
 VPC :
-![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/8f70768b-e802-4b6d-a077-5c0b21064b8a)
-![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/36ea5669-f424-466e-9163-96327976c065)
+![Capture d'écran 2023-10-14 103846](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/04097e2c-d189-4275-add2-48a62cabbd75)
+
+![Capture d'écran 2023-10-14 103846](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/4d85b51f-49a7-4059-9338-e0f926c603b6)
 
 Subnets:
-![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/42b9d3cf-0a37-4d5f-a4be-1c96bae13f0b)
+![Capture d'écran 2023-10-14 104505](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/e11a4da2-f580-4a38-b882-447ebd072c7f)
 
 ALB:
-![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/947b4e21-21e1-4363-8634-d099df569153)
-![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/00a538cc-eabb-486e-87c6-acba825342f0)
+![Capture d'écran 2023-10-14 104626](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/a6634754-9bc2-4757-89a4-79c8cf74d72e)
+
+![Capture d'écran 2023-10-14 104654](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/5c8a4e27-a6cd-420b-af0f-eb40e5113ae8)
 
 EC2 Instances:
-![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/1515853c-0e3b-4ab8-926f-26a61ae2e847)
+![Capture d'écran 2023-10-14 104721](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/bfdfcd14-b939-47cd-a3c6-b682b518aa48)
 
 Load Balancer :
-![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/6e6b0bfa-95e3-47ae-80be-29c1debb185e)
-![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/e47ff66a-2653-49f2-8bf6-270831f6d7cd)
+![Capture d'écran 2023-10-14 144300](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/689f9fc8-1613-4cd1-b251-28c3302340d4)
+![Capture d'écran 2023-10-14 144307](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/4ad44668-c7cb-44c6-a934-48dd0d450716)
+
 
 Results of terraform destroy : 
-![image](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/04441c4e-ed9e-4315-9165-70df805d6137)
+![Capture d'écran 2023-10-14 143021](https://github.com/Aziz-Smail/mini_project_terraform_aws/assets/125816328/728c3d13-b195-4da1-b3c1-ec4809f56d74)
+
 
 Thank you ^^ 
 
