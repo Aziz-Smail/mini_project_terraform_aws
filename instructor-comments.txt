@@ -1,0 +1,10 @@
+Remise tardive du projet. Vous etes 3 sur le projet. Ca devait etre 2 personnes max.
+
+Le subnet du NAT n'est pas donné aléatoirement.
+Pas besoin de provider et de profil dans les modules vpc et webserver.
+Pas de TG et de listener pour le LB.
+Le count et la repartition des serveurs n'est pas correct.
+
+Le projet est bien structuré.
+
+Note: 13
